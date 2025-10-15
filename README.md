@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2509.14084-b31b1b.svg)](https://arxiv.org/abs/2509.14084)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/apprisi/AD-DINOv3)
 ![](asset/comparison.png)
 
 
